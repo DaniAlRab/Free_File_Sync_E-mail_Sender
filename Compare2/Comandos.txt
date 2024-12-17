@@ -1,0 +1,10 @@
+ATI - Verifica a versão do Firmware do módulo
+Quectel
+BG95-M4
+Revision: BG95M4LAR02A02
+
+
+
+AT+QGMR - Verifica a versão do Firmware com detalhes 
+
+BG95M4LAR02A02_01.005.01.005
