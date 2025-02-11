@@ -70,7 +70,7 @@ cc_emails = ["cc@example.com"]
 ---
 
 ## Screenshot
-![Email Notification](Nova%20pasta%20(2)/e-mail_received.png)
+![Email Notification](e-mail_received.png)
 
 ---
 
